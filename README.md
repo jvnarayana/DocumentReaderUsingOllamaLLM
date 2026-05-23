@@ -70,5 +70,6 @@ If OCR is needed, make sure poppler is installed.
 If the model returns verbose output, tighten the prompt or use a model with better instruction-following.
 
 Sample Output looks like this:
-<img width="1512" height="982" alt="Screenshot 2026-05-23 at 2 21 40 AM" src="https://github.com/user-attachments/assets/90bb97e6-0e6d-4ea1-b61c-496e54163367" />
+<img width="1512" height="982" alt="Screenshot 2026-05-23 at 2 21 40 AM" src="https://github.com/user-attachments/assets/08411b87-4d7a-4531-b659-815be207fb5a" />
+
 
